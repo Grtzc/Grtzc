@@ -1,0 +1,8 @@
+[submodule "grtzc-app-react"]
+	path = grtzc-app-react
+	url = git@github.com:Grtzc/grtzc-app-react.git
+	branch = main
+[submodule "grtzc-aws-lambdas"]
+	path = grtzc-aws-lambdas
+	url = git@github.com:Grtzc/grtzc-aws-lambdas.git
+	branch = main
